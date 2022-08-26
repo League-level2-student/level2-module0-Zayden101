@@ -67,7 +67,7 @@ public static void main(String[] args) {
 					
 					//robot[i].miniaturize();
 			
-					//System.out.println(robot[i]+" Wins");
+					System.out.println("Robot "+i+" Wins");
 					
 				}
 				
