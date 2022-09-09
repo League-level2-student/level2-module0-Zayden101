@@ -2,7 +2,7 @@ package arrays;
 import processing.core.PApplet;
 import processing.core.PImage;
 
-/*
+/* 
  * Goal: Create a program to paint some Van Gogh paintings!
  * 
  * In this class:
